@@ -1,6 +1,6 @@
 ## About The Project
 
-![Horiseon Screen Shot](../images/Horiseon-Refactor-Screenshot.jpg)
+![Horiseon Screen Shot](../images/horiseon-refactor-screenshot.jpg)
 
 >[Link to the website](https://kmcpherson49.github.io/horiseon-code-refactor/)
 
